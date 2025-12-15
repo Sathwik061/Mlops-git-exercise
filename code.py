@@ -1,6 +1,7 @@
 class HelloWorld:
     def say_hello(self):
         print("Hello, India!")
+        print("Alliance")
       
 
 
